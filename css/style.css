@@ -1,0 +1,45 @@
+body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      width: 100%;
+      background: #884055;
+      font-size: large;
+  
+    }
+    
+    h1 {
+      color: white;
+      font-size: 50;
+    }
+
+    h2 {
+      color: pink;
+      font-size: 40;
+    }
+
+    h3 {
+      color: white;
+      font-size: 20;
+    ;
+  
+    }
+    
+    .preguntas {
+      margin-bottom: 10%pxpx;
+    }
+    
+    .opciones {
+      display: inline-block;
+      text-align: left;
+      color: pink;
+      font-size: 15;
+    }
+    #btn1 {
+      background-color: white;
+      border: 1px solid pink;
+      display: inline-block;
+      text-align: center;
+      color: pink;
+      font-size: 30;
+      font-family: arial black;
+    }
